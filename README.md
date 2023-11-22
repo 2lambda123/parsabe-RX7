@@ -1,7 +1,7 @@
 
 # RX7
 
-RX7 is a Perl script that demonstrates various functionalities, including bioinformatics tasks, data encryption/decryption, and simulated IoT data collection and control.
+RX7 is a Python script that demonstrates various functionalities, including bioinformatics tasks, data encryption/decryption, and simulated IoT data collection and control.
 
 ## Features
 
