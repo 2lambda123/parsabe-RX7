@@ -55,7 +55,7 @@ cpanm Crypt::Cipher Crypt::PBKDF2 Crypt::Random MIME::Base64 Storable BioPerl
 3. Run the Perl script:
 
 ```bash
-perl rx7.pl
+python main.py
 ```
 
 Replace `rx7.pl` with the actual name of your Perl script.
